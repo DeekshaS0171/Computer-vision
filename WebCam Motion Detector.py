@@ -6,7 +6,7 @@ import numpy as np
 import cv2
 
 Initial_frame = None
-#temp_image = cv2.imread('C:/Users/deeks/Desktop/Adsoft/CV/CV_Projects/20190402_120736.jpg',1)
+#temp_image = cv2.imread('................//20190402_120736.jpg',1)
 #resize_img = cv2.resize(temp_image,(int(temp_image.shape[0]/14),int(temp_image.shape[1]/6)))
 
 Cam = cv2.VideoCapture(0)
